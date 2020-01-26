@@ -42,7 +42,7 @@ echo Enter password to Unlock folder
 
 set/p "pass=>"
 
-if NOT %pass%==Hm@090216000 goto FAIL
+if NOT %pass%==abc goto FAIL
 
 attrib -h -s "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}"
 
