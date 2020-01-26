@@ -8,7 +8,7 @@ The files can now be opened and closed and locked everytime using this-
   a) Open FolderLocker.bat,type your password,press Enter.
   b) Do necessary changes in files(add , remove , update , read etc.).
 Go back to FolderLocker.bat and press Y to lock.
-
+I changed line here
 
 Additional Info :
 1. You can put this FolderLocker.bat anywhere in the pc , but to re-open that folder,
